@@ -1,0 +1,94 @@
+ 
+.container {
+  width: 100%;
+  max-width: 414px;
+  min-height: 736px;
+  margin: 0px auto;
+  background-color: black;
+}
+
+#logo{
+  width: 200px;
+  margin-top: 10px;
+  margin-left: 90px;
+}
+
+#letras{
+font-size: 20px;
+color: rgba(255, 196, 0, 0.938);
+margin-top: 30px;
+margin-left: 140px;
+}
+
+#email_contacto{
+  margin-top: 30px;  
+  margin-left: 110px;
+}
+
+#inputContraseña{
+  margin-top: 20px;
+  margin-left: 110px;
+}
+
+.click{
+  margin-top: 20px;
+  margin-left: 130px; 
+  width: 100%;  
+  background-color: rgba(255, 196, 0, 0.938);
+  color: white;
+}
+
+#btn1{
+  margin-top: 200px;
+  width: 100%;
+  background-color: rgba(255, 196, 0, 0.938);
+  color: white;
+
+}
+
+#btn2{
+  margin-top: 20px;
+  width: 100%;
+  background-color: rgba(255, 196, 0, 0.938);
+  color: white;
+}
+
+#btn3{
+  margin-top: 20px;
+  width: 100%;
+  background-color: rgba(255, 196, 0, 0.938);
+  color: white;
+}
+
+#btn4{
+  margin-top: 20px;
+  width: 100%;
+  background-color: rgba(255, 196, 0, 0.938);
+  color: white;  
+}
+
+#letras2{
+  margin-top: 30px;
+  margin-left: 120px;
+  font-size: 30px;
+  color: white;
+}
+
+#nro{
+  margin-top: 100px;
+  margin-left: 120px;
+}
+
+#btn5{
+  margin-top: 60px;
+  margin-right: 100px;
+  margin-left: 160px;
+  background-color: rgba(255, 196, 0, 0.938);
+  color: white;    
+}
+
+#info{
+  margin-top: 50px;
+  margin-left: 140px;
+  color: white; 
+}
